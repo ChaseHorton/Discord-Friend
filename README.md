@@ -1,1 +1,1 @@
-# Discord-Friend
+# Name-Language Generator
